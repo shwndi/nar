@@ -1,0 +1,5 @@
+com\myself\internet\InternetSocketAddress.class
+com\myself\tcp\TCPServer.class
+com\myself\internet\InternetAddress.class
+com\myself\tcp\TCPClient.class
+com\myself\udp\UDPTest.class
